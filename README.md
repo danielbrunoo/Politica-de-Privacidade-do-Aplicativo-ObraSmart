@@ -1,6 +1,6 @@
 # Política de Privacidade do Aplicativo ObraSmart
 
-**Última atualização: 2 de Abril de 2026**
+**Última atualização: 27 de Maio de 2026**
 
 Esta Política de Privacidade descreve como o **ObraSmart** coleta, usa e compartilha informações quando você utiliza nosso aplicativo de gestão de empresas, produtos e comparação de custos "ObraSmart". Ao utilizar o nosso Aplicativo, você concorda com as práticas descritas nesta Política de Privacidade.
 
@@ -52,7 +52,7 @@ O Aplicativo permite que os usuários gerenciem empresas e produtos de forma sim
 
 ## Anúncios
 
-Nosso Aplicativo exibe anúncios por meio do **Google AdMob**, uma plataforma de anúncios da Google. 
+Nosso Aplicativo exibe anúncios por meio do **Google AdMob**, uma plataforma de anúncios da Google.
 
 O AdMob coleta informações relacionadas à sua interação com os anúncios e dados do dispositivo (conforme descrito na seção "Informações que Coletamos") para fins de:
 - Personalização de anúncios
