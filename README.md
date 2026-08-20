@@ -1,99 +1,100 @@
-# Política de Privacidade do Aplicativo ObraSmart
+# Privacy Policy for ObraSmart App
 
-**Última atualização: 27 de Maio de 2026**
+**Last updated: August 20, 2026**
 
-Esta Política de Privacidade descreve como o **ObraSmart** coleta, usa e compartilha informações quando você utiliza nosso aplicativo de gestão de empresas, produtos e comparação de custos "ObraSmart". Ao utilizar o nosso Aplicativo, você concorda com as práticas descritas nesta Política de Privacidade.
+This Privacy Policy describes how **ObraSmart** collects, uses, and shares information when you use our company, product, and cost comparison management application, "ObraSmart". By using our App, you agree to the practices described in this Privacy Policy.
 
-## Informações que Coletamos
+## Information We Collect
 
-### Dados Coletados pelo AdMob (Google Mobile Ads)
+### Data Collected by AdMob (Google Mobile Ads)
 
-Nosso Aplicativo utiliza o **Google AdMob** para exibir anúncios. O AdMob pode coletar e transmitir as seguintes informações para servidores do Google:
+Our App uses **Google AdMob** to display advertisements. AdMob may collect and transmit the following information to Google servers:
 
-- **ID do dispositivo**: Identificador de publicidade do dispositivo (Advertising ID)
-- **Localização aproximada**: Informações de localização aproximada (quando disponível)
-- **Informações do dispositivo**: Modelo, sistema operacional, versão do sistema
-- **Dados de uso**: Interações com anúncios (cliques, impressões)
-- **Outros dados técnicos**: Necessários para personalização de anúncios e análise de desempenho
+- **Device ID**: Advertising identifier of the device (Advertising ID)
+- **Approximate Location**: Approximate location information (when available)
+- **Device Information**: Model, operating system, and system version
+- **Usage Data**: Interactions with ads (clicks, impressions)
+- **Other Technical Data**: Necessary for ad personalization and performance analysis
 
-**Finalidade**: Esses dados são coletados e compartilhados com o Google (AdMob) exclusivamente para:
-- Exibição de anúncios personalizados
-- Análise de desempenho dos anúncios
-- Melhoria dos serviços de publicidade
+**Purpose**: This data is collected and shared with Google (AdMob) exclusively for:
+- Displaying personalized ads
+- Analyzing ad performance
+- Improving advertising services
 
-**Compartilhamento**: Esses dados são compartilhados com o Google (AdMob), conforme descrito na [Política de Privacidade do Google](https://policies.google.com/privacy).
+**Sharing**: This data is shared with Google (AdMob) as described in the [Google Privacy Policy](https://policies.google.com/privacy).
 
-**Criptografia**: Os dados transmitidos pelo AdMob são criptografados em trânsito usando HTTPS.
+**Encryption**: Data transmitted by AdMob is encrypted in transit using HTTPS.
 
-### Dados de Empresas e Produtos (Armazenamento Local)
+### Company and Product Data (Local Storage)
 
-O Aplicativo permite que você crie e gerencie empresas e produtos para organizar custos de materiais. **Importante**: Todas as informações cadastradas no app (como nome da empresa, nome do produto, quantidade, unidade e valor unitário) são armazenadas **apenas no seu dispositivo**, usando armazenamento local (SQLite).
+The App allows you to create and manage companies and products to organize material costs. **Important**: All information registered in the app (such as company name, product name, quantity, unit, and unit price) is stored **only on your device**, using local storage (SQLite).
 
-- **Não coletamos** dados pessoais sensíveis para uso das funcionalidades principais
-- **Não transmitimos** seus cadastros de empresas e produtos para servidores externos
-- **Não compartilhamos** seus dados de cadastro com terceiros
-- **Não requeremos** criação de conta ou login
+- **We do not collect** sensitive personal data for the use of core features
+- **We do not transmit** your company and product records to external servers
+- **We do not share** your registration data with third parties
+- **We do not require** account creation or login
 
-Seus dados de uso do ObraSmart permanecem privados e armazenados localmente no seu dispositivo.
+Your ObraSmart usage data remains private and stored locally on your device.
 
-## Funcionalidades do Aplicativo
+## App Features
 
-O Aplicativo permite que os usuários gerenciem empresas e produtos de forma simples e prática. As principais funcionalidades incluem:
+The App allows users to manage companies and products in a simple and practical way. Key features include:
 
-- **Adicionar empresas**: O usuário pode cadastrar empresas para organizar cotações e compras
-- **Editar empresas**: O usuário pode editar as informações de empresas já cadastradas
-- **Excluir empresas**: O usuário pode remover empresas da lista
-- **Adicionar produtos**: O usuário pode inserir informações de produtos (nome, quantidade, unidade e valor unitário)
-- **Editar produtos**: O usuário pode editar as informações de produtos cadastrados
-- **Excluir produtos**: O usuário pode remover produtos da lista
-- **Comparar menor custo**: O usuário pode visualizar comparação de custos entre empresas cadastradas
+- **Add companies**: The user can register companies to organize quotes and purchases
+- **Edit companies**: The user can edit details of already registered companies
+- **Delete companies**: The user can remove companies from the list
+- **Add products**: The user can input product information (name, quantity, unit, and unit price)
+- **Edit products**: The user can edit information for registered products
+- **Delete products**: The user can remove products from the list
+- **Compare lowest cost**: The user can view cost comparisons across registered companies
 
-**Todas essas ações são realizadas localmente no dispositivo do usuário**, e os dados de empresas/produtos não são enviados nem armazenados em servidores externos.
+**All of these actions are performed locally on the user's device**, and company/product data is neither sent to nor stored on external servers.
 
-## Anúncios
+## Advertisements
 
-Nosso Aplicativo exibe anúncios por meio do **Google AdMob**, uma plataforma de anúncios da Google.
+Our App displays advertisements through **Google AdMob**, an advertising platform by Google.
 
-O AdMob coleta informações relacionadas à sua interação com os anúncios e dados do dispositivo (conforme descrito na seção "Informações que Coletamos") para fins de:
-- Personalização de anúncios
-- Análise de desempenho
-- Otimização da experiência publicitária
+AdMob collects information related to your interaction with ads and device data (as described in the "Information We Collect" section) for the purposes of:
+- Ad personalization
+- Performance analytics
+- Optimizing the advertising experience
 
-Para mais informações sobre como o AdMob coleta e usa dados, consulte a [Política de Privacidade do Google](https://policies.google.com/privacy) e os [Termos de Serviço do AdMob](https://support.google.com/admob/answer/6128543).
+For more information on how AdMob collects and uses data, please consult the [Google Privacy Policy](https://policies.google.com/privacy) and the [AdMob Terms of Service](https://support.google.com/admob/answer/6128543).
 
-## Não Coleta de Dados Pessoais Identificáveis
+## No Collection of Personally Identifiable Information
 
-O Aplicativo **não requer** que você forneça informações pessoais identificáveis como:
-- Nome completo
-- Endereço de e-mail
-- Número de telefone
-- Dados de pagamento ou cartão de crédito
-- Informações bancárias
+The App **does not require** you to provide personally identifiable information such as:
+- Full name
+- Email address
+- Phone number
+- Payment or credit card details
+- Banking information
 
-**Não coletamos, armazenamos ou compartilhamos** dados pessoais identificáveis relacionados ao seu cadastro de empresas/produtos ou à sua identidade pessoal para uso das funcionalidades principais do app.
+**We do not collect, store, or share** personally identifiable data related to your company/product registrations or your personal identity for the use of core app features.
 
-## Segurança
+## Security
 
-Embora o ObraSmart armazene seus dados de uso apenas localmente no dispositivo, recomendamos que os usuários adotem boas práticas de segurança:
+Although ObraSmart stores your usage data only locally on your device, we recommend that users follow good security practices:
 
-- Manter o dispositivo protegido com senhas, PIN ou outras formas de autenticação
-- Fazer backup regular dos dados do dispositivo
-- Manter o sistema operacional e o aplicativo atualizados
-- Não compartilhar o dispositivo com pessoas não autorizadas
+- Keep your device protected with passwords, PIN, or other authentication methods
+- Regularly back up your device data
+- Keep your operating system and the app updated
+- Do not share your device with unauthorized individuals
 
-## Seus Direitos
+## Your Rights
 
-Você tem o direito de:
-- **Desativar anúncios personalizados**: Você pode desativar a personalização de anúncios nas configurações do seu dispositivo Android (Configurações > Google > Anúncios > Desativar personalização de anúncios)
-- **Gerenciar seus dados**: Como todos os dados de empresas e produtos ficam no seu dispositivo, você tem controle total sobre eles
-- **Desinstalar o aplicativo**: Você pode desinstalar o aplicativo a qualquer momento, o que removerá todos os dados locais
+You have the right to:
+- **Opt out of personalized ads**: You can disable ad personalization in your Android device settings (Settings > Google > Ads > Opt out of Ads Personalization)
+- **Manage your data**: Since all company and product data remains on your device, you have full control over it
+- **Uninstall the app**: You can uninstall the application at any time, which will remove all local data
 
-## Alterações nesta Política de Privacidade
+## Changes to This Privacy Policy
 
-Reservamo-nos o direito de alterar ou atualizar esta Política de Privacidade a qualquer momento. Quando isso acontecer, a data da "Última atualização" no topo desta página será alterada. Recomendamos que você revise periodicamente esta Política para se manter informado sobre como estamos protegendo suas informações.
+We reserve the right to change or update this Privacy Policy at any time. When changes occur, the "Last updated" date at the top of this page will be revised. We recommend reviewing this Policy periodically to stay informed about how we protect your information.
 
-## Contato
+## Contact
 
-Se você tiver alguma dúvida ou preocupação sobre esta Política de Privacidade, entre em contato conosco por meio do e-mail: **codeinnovationmail@gmail.com**.
+If you have any questions or concerns regarding this Privacy Policy, please contact us at: **codeinnovationmail@gmail.com**.
 
-**Nota**: Esta política está alinhada com os requisitos da Google Play Console e reflete com precisão como o aplicativo coleta, usa e compartilha dados.
+---
+*Note: This policy complies with Google Play Console requirements and accurately reflects how the application collects, uses, and shares data.*
